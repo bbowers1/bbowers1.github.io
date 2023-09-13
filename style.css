@@ -51,10 +51,9 @@ main {
     flex: 1;
     padding: 15px;
 }
-
 /* portfolio styles */
 .content h1 {
-  color: rgb(55, 0, 255);
+  color: black;
 }
 
 #portfolio {
@@ -63,14 +62,14 @@ main {
 }
 
 #portfolio li {
-  background: #9e9e9e;
+  background: #ff0000;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-  background: #ff0000;
+  background: #eee;
 }
 
 #portfolio a {
